@@ -1,4 +1,4 @@
-# Welcome to Equality Lab!
+# Welcome to the Equality Lab!
 
 ### Links
 1. [Analysis of Tamilnadu Engineering admission 2018 data](https://equalitylab.github.io/tnea2018)
